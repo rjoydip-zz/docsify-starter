@@ -49,8 +49,8 @@ Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Joydip roy (rjoydip)</sub>](https://rjoydip.com)<br />[💻](https://github.com/rjoydip/docsify-starter/commits?author=rjoydip) [📖](https://github.com/rjoydip/docsify-starter/commits?author=rjoydip) 🚇 [⚠️](https://github.com/rjoydip/docsify-starter/commits?author=rjoydip) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/15318294?v=3" width="100px;"/><br /><sub>Joydip Roy (rjoydip)</sub>](https://rjoydip.com)<br />[💻](https://github.com/rjoydip/array-to-archy/commits?author=rjoydip) [📖](https://github.com/rjoydip/array-to-archy/commits?author=rjoydip) 🚇 [⚠️](https://github.com/rjoydip/array-to-archy/commits?author=rjoydip) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
