@@ -4,7 +4,6 @@
 <p>A starter pack for docsify</p>
 
 [![Build Status][build-badge]][build]
-
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]][coc]
