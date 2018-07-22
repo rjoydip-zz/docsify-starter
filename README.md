@@ -5,7 +5,6 @@
 </div>
 
 [![Build Status][build-badge]][build]
-[![MIT License][license-badge]][license]
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
@@ -65,7 +64,6 @@ MIT
 [build]: https://travis-ci.org/rjoydip/docsify-starter
 [version-badge]: https://img.shields.io/npm/v/docsify-starter.svg?style=flat-square
 [license-badge]: https://img.shields.io/npm/l/docsify-starter.svg?style=flat-square
-[license]: https://github.com/rjoydip/docsify-starter/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
