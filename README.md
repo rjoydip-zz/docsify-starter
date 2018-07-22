@@ -2,7 +2,6 @@
 <h1>docsify-starter</h1>
 
 <p>A starter pack for docsify</p>
-</div>
 
 [![Build Status][build-badge]][build]
 
@@ -10,6 +9,7 @@
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]][coc]
 [![Star on GitHub][github-star-badge]][github-star]
+</div>
 
 ## Table of Contents
 
