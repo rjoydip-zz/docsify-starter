@@ -9,7 +9,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]][coc]
-
 [![Star on GitHub][github-star-badge]][github-star]
 
 ## Table of Contents
