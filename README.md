@@ -4,10 +4,7 @@
 <p>A starter pack for docsify</p>
 </div>
 
-<hr />
-
 [![Build Status][build-badge]][build]
-[![version][version-badge]][package]
 [![MIT License][license-badge]][license]
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
@@ -67,7 +64,6 @@ MIT
 [build-badge]: https://img.shields.io/travis/rjoydip/docsify-starter.svg?style=flat-square
 [build]: https://travis-ci.org/rjoydip/docsify-starter
 [version-badge]: https://img.shields.io/npm/v/docsify-starter.svg?style=flat-square
-[package]: https://www.npmjs.com/package/docsify-starter
 [license-badge]: https://img.shields.io/npm/l/docsify-starter.svg?style=flat-square
 [license]: https://github.com/rjoydip/docsify-starter/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
