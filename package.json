@@ -21,8 +21,8 @@
     "clean": "rm -rf node_modules && npm uninstall docsify-cli && npm install",
     "preinstall": "npm i docsify-cli -g",
     "clean:public": "rm -rf public",
-    "gh-pages-clean": "~node_modules/gh-pages/bin/gh-pages-clean",
-    "predeploy": "npm run gh-pages-clean && npm run clean:public && mkdir public && cp -r docs public",
+    "gh-pages:clean": "rm -rf node_modules/gh-pages/.cache",
+    "predeploy": "npm run gh-pages:clean && npm run clean:public && mkdir public && cp -r docs public",
     "deploy": "gh-pages -d public"
   },
   "files": [
