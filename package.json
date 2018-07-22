@@ -17,11 +17,11 @@
     "test:update": "npm test -- --updateSnapshot --coverage",
     "validate": "kcd-scripts validate",
     "setup": "npm install && npm run validate -s",
-    "precommit": "npm run lint",
+    "precommit": "npm run lint && npm run test:update",
     "clean": "rm -rf node_modules && npm uninstall docsify-cli && npm install",
     "preinstall": "npm i docsify-cli -g",
     "clean:public": "rm -rf public",
-    "predeploy": "npm run clean:public && mkdir public && cp -r docs/ public",
+    "predeploy": "npm run clean:public && mkdir public && cp -r docs public",
     "deploy": "gh-pages -d public"
   },
   "files": [
