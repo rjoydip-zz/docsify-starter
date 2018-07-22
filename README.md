@@ -23,8 +23,7 @@
 
 ## Installation
 
-This module is distributed via [npm][npm] which is bundled with [node][node] and
-should be installed as one of your project's `devDependencies`:
+This module is distributed via [npm][npm] which is bundled with [node][node].
 
 ```
 git clone https://github.com/rjoydip/docsify-starter.git
